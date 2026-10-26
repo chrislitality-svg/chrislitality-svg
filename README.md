@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
-    <img src="assets/banner-dark.svg" alt="Bee Zhao 赵轶峰 — Historian × AI Builder" width="100%" />
+    <img src="assets/banner-dark.svg" alt="徐弘 — Historian × AI Builder" width="100%" />
   </picture>
 </p>
 

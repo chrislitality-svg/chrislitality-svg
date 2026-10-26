@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Bee Zhao 赵轶峰 — Historian × AI Builder">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="徐弘 — Historian × AI Builder">
   <!-- ink background -->
   <rect x="0" y="0" width="1200" height="300" fill="#0f1115"/>
 
@@ -26,25 +26,22 @@
   </g>
 
   <!-- name block -->
-  <text x="72" y="136" font-family="Georgia, 'Times New Roman', 'Songti SC', serif" font-size="58" letter-spacing="1" fill="#f3ead8">Bee Zhao</text>
-  <text x="372" y="136" font-family="Georgia, 'Times New Roman', 'Songti SC', serif" font-size="42" letter-spacing="6" fill="#c9a227">赵轶峰</text>
+  <text x="72" y="136" font-family="'Songti SC', 'STSong', 'Noto Serif CJK SC', 'SimSun', serif" font-size="64" letter-spacing="8" fill="#f3ead8">徐弘</text>
+  <text x="232" y="136" font-family="Georgia, 'Times New Roman', 'Songti SC', serif" font-size="30" letter-spacing="3" fill="#c9a227">xvhong</text>
   <text x="74" y="180" font-family="Georgia, 'Times New Roman', serif" font-size="20" letter-spacing="3" fill="#f3ead8" fill-opacity="0.72">Historian × AI Builder</text>
   <rect x="74" y="196" width="88" height="2" fill="#c8372d" opacity="0.85"/>
 
-  <!-- vermilion seal 「轶峰」, white-on-red intaglio -->
+  <!-- vermilion seal 「徐弘」, white-on-red intaglio -->
   <g opacity="1">
     <rect x="1000" y="84" width="132" height="132" rx="6" fill="#c8372d"/>
     <rect x="1009" y="93" width="114" height="114" rx="2" fill="none" stroke="#f3ead8" stroke-width="2.5" opacity="0.95"/>
-    <text x="1066" y="121.5" text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'STSong', 'SimSun', serif" font-size="54" font-weight="700" fill="#f3ead8">轶</text>
-    <text x="1066" y="178.5" text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'STSong', 'SimSun', serif" font-size="54" font-weight="700" fill="#f3ead8">峰</text>
+    <text x="1066" y="121.5" text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'STSong', 'SimSun', serif" font-size="54" font-weight="700" fill="#f3ead8">徐</text>
+    <text x="1066" y="178.5" text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'STSong', 'SimSun', serif" font-size="54" font-weight="700" fill="#f3ead8">弘</text>
     <animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="1.4s" fill="freeze"/>
   </g>
 
   <!-- terminal line with blinking cursor -->
   <text x="72" y="258" font-family="'SF Mono', 'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="17" letter-spacing="0.5">
-    <tspan fill="#7ee787">$</tspan><tspan fill="#f3ead8" fill-opacity="0.92">&#160;agents run --dynasty=ming</tspan>
+    <tspan fill="#7ee787">$</tspan><tspan fill="#f3ead8" fill-opacity="0.92">&#160;agents run --dynasty=ming</tspan><tspan fill="#7ee787">&#9612;<animate attributeName="fill-opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></tspan>
   </text>
-  <rect x="352" y="244" width="10" height="19" fill="#7ee787">
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
-  </rect>
 </svg>
