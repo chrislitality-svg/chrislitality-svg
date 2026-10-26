@@ -14,9 +14,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,electron,vue,react,nextjs,fastapi,prisma,sqlite,threejs,vite&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,ts,js,electron,vue,react,nextjs,fastapi,prisma,sqlite,threejs,vite&theme=light" />
-    <img src="https://skillicons.dev/icons?i=py,ts,js,electron,vue,react,nextjs,fastapi,prisma,sqlite,threejs,vite&theme=dark" alt="Languages and frameworks used across my public repos" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Celectron%2Cvue%2Creact%2Cnextjs%2Cfastapi%2Cprisma%2Csqlite%2Cthreejs%2Cvite&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Celectron%2Cvue%2Creact%2Cnextjs%2Cfastapi%2Cprisma%2Csqlite%2Cthreejs%2Cvite&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Celectron%2Cvue%2Creact%2Cnextjs%2Cfastapi%2Cprisma%2Csqlite%2Cthreejs%2Cvite&theme=dark" alt="Languages and frameworks used across my public repos" />
   </picture>
 </p>
 
