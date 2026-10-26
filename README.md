@@ -10,6 +10,8 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3500&pause=900&color=C8372D&center=true&vCenter=true&width=700&lines=Ming+political+economy+by+day;Multi-agent+pipelines+by+night;Imperial+Agrarian-Commercial+Society;From+ad-hoc+AI+to+codified+SOPs" alt="Typing intro" width="700" />
 </p>
 
+<p align="center"><b>Historian × AI builder.</b> I study Ming dynasty political economy by day, and build multi-agent AI tools by night — for creative writing, training systems, and historical simulation.</p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,electron,vue,react,nextjs,fastapi,prisma,sqlite,threejs,vite&theme=dark" />
@@ -23,20 +25,18 @@
 ## About
 
 <table>
-  <tr>
+<tr>
     <th width="50%" align="left">🏛️ Historian</th>
     <th width="50%" align="left">🤖 Builder</th>
-  </tr>
-  <tr>
-    <td valign="top">
-
+</tr>
+<tr>
+<td valign="top">
 Professor & Dean, Institute of Asian Civilizations, Northeast Normal University. PhD in History, University of Alberta.
 
 My research centers on Ming-Qing institutional history — most notably the **"Imperial Agrarian-Commercial Society"** framework for understanding Ming political economy, and a critique of the **"Great Convergence"** narrative in Chinese economic history. I serve as Executive Editor of *Journal of Ancient Civilizations* (《古代文明》) and as a special advisor to the Chinese Ming History Society.
 
-    </td>
-    <td valign="top">
-
+</td>
+<td valign="top">
 No formal CS background — I came to programming to solve real problems in publishing, training, and business operations, and kept going. Current and past projects include:
 
 - **NovelForge** — a multi-agent AI pipeline for historical novel writing, with a five-layer memory architecture
@@ -47,8 +47,8 @@ No formal CS background — I came to programming to solve real problems in publ
 
 Outside academia, I run a live-streaming e-commerce company and serve as Training Director at a tech company, where I lead AI adoption initiatives — moving teams from scattered, ad-hoc AI tool use toward end-to-end workflow redesign and codified SOPs.
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ## Currently
@@ -63,18 +63,18 @@ Outside academia, I run a live-streaming e-commerce company and serve as Trainin
 
 <p align="center">
 <table>
-  <tr>
+<tr>
     <td width="50%" align="center" valign="top"><a href="https://github.com/chrislitality-svg/wangziru-analysis-skill"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chrislitality-svg&repo=wangziru-analysis-skill&bg_color=0f1115&title_color=c8372d&text_color=f3ead8&icon_color=c9a227&border_color=c9a227" alt="wangziru-analysis-skill" width="100%" /></a></td>
     <td width="50%" align="center" valign="top"><a href="https://github.com/chrislitality-svg/think-like-wangziru"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chrislitality-svg&repo=think-like-wangziru&bg_color=0f1115&title_color=c8372d&text_color=f3ead8&icon_color=c9a227&border_color=c9a227" alt="think-like-wangziru" width="100%" /></a></td>
-  </tr>
-  <tr>
+</tr>
+<tr>
     <td width="50%" align="center" valign="top"><a href="https://github.com/chrislitality-svg/PixelPal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chrislitality-svg&repo=PixelPal&bg_color=0f1115&title_color=c8372d&text_color=f3ead8&icon_color=c9a227&border_color=c9a227" alt="PixelPal" width="100%" /></a></td>
     <td width="50%" align="center" valign="top"><a href="https://github.com/chrislitality-svg/courtsim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chrislitality-svg&repo=courtsim&bg_color=0f1115&title_color=c8372d&text_color=f3ead8&icon_color=c9a227&border_color=c9a227" alt="courtsim" width="100%" /></a></td>
-  </tr>
-  <tr>
+</tr>
+<tr>
     <td width="50%" align="center" valign="top"><a href="https://github.com/chrislitality-svg/script-to-video"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chrislitality-svg&repo=script-to-video&bg_color=0f1115&title_color=c8372d&text_color=f3ead8&icon_color=c9a227&border_color=c9a227" alt="script-to-video" width="100%" /></a></td>
     <td width="50%" align="center" valign="top"><a href="https://github.com/chrislitality-svg/luoyonghao-analysis-skill"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chrislitality-svg&repo=luoyonghao-analysis-skill&bg_color=0f1115&title_color=c8372d&text_color=f3ead8&icon_color=c9a227&border_color=c9a227" alt="luoyonghao-analysis-skill" width="100%" /></a></td>
-  </tr>
+</tr>
 </table>
 </p>
 
