@@ -2,15 +2,15 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
-    <img src="assets/banner-dark.svg" alt="徐弘 — Historian × AI Builder" width="100%" />
+    <img src="assets/banner-dark.svg" alt="徐弘 — AI Builder · Live Commerce · History" width="100%" />
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3500&pause=900&color=C8372D&center=true&vCenter=true&width=700&lines=Ming+political+economy+by+day;Multi-agent+pipelines+by+night;Imperial+Agrarian-Commercial+Society;From+ad-hoc+AI+to+codified+SOPs" alt="Typing intro" width="700" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3500&pause=900&color=C8372D&center=true&vCenter=true&width=700&lines=Claude+Code+skills+distilled+from+real+speakers;Agents+for+live-streaming+e-commerce;Ming+court+politics%2C+simulated+by+LLMs;Desktop+pets%2C+Tetris+and+CS2+lineups" alt="Typing intro" width="700" />
 </p>
 
-<p align="center"><b>Historian × AI builder.</b> I study Ming dynasty political economy by day, and build multi-agent AI tools by night — for creative writing, training systems, and historical simulation.</p>
+<p align="center"><b>AI builder · live commerce · history at play.</b><br/>我把真实问题拆成 skill、agent 和小工具 — I turn the problems in front of me into Claude Code skills, agent pipelines and small tools.</p>
 
 <p align="center">
   <picture>
@@ -26,26 +26,24 @@
 
 <table>
 <tr>
-    <th width="50%" align="left">🏛️ Historian</th>
-    <th width="50%" align="left">🤖 Builder</th>
+<th width="50%" align="left">🧭 What I work on</th>
+<th width="50%" align="left">🛠️ How I build</th>
 </tr>
 <tr>
 <td valign="top">
-Professor & Dean, Institute of Asian Civilizations, Northeast Normal University. PhD in History, University of Alberta.
 
-My research centers on Ming-Qing institutional history — most notably the **"Imperial Agrarian-Commercial Society"** framework for understanding Ming political economy, and a critique of the **"Great Convergence"** narrative in Chinese economic history. I serve as Executive Editor of *Journal of Ancient Civilizations* (《古代文明》) and as a special advisor to the Chinese Ming History Society.
+- **Expression-analysis skills** — I take speakers like 王自如, 罗永浩 and 樊登, code hundreds of transcript units, and package how they argue into installable Claude Code skills.
+- **Live-commerce tooling** — agents that record livestreams, transcribe them locally and benchmark the sales talk, plus the dashboards and trackers a streaming team runs on.
+- **History you can play** — LLM-driven court-politics simulations of the Ming and other dynasties, grounded in historical sources.
+- **Things for fun** — a pixel desktop pet, a battle-royale Tetris and CS2 lineup tools.
 
 </td>
 <td valign="top">
-No formal CS background — I came to programming to solve real problems in publishing, training, and business operations, and kept going. Current and past projects include:
 
-- **NovelForge** — a multi-agent AI pipeline for historical novel writing, with a five-layer memory architecture
-- **[CourtSim](https://github.com/chrislitality-svg/courtsim)** — a multi-agent simulation engine modeling Ming dynasty court politics
-- **Pylo (拍乐)** — an AI-assisted short-drama creation tool for Chinese content creators
-- **Haibei Video Engine** — high-volume, template-driven video generation for e-commerce
-- Smaller side projects: a [CS2 tactics assistant](https://github.com/chrislitality-svg/cs2-lineups), a [Tetris mod](https://github.com/chrislitality-svg/tetris-widget), and whatever problem is in front of me that week
-
-Outside academia, I run a live-streaming e-commerce company and serve as Training Director at a tech company, where I lead AI adoption initiatives — moving teams from scattered, ad-hoc AI tool use toward end-to-end workflow redesign and codified SOPs.
+- **Agents do the heavy lifting.** Claude plans and reviews; other models write most of the code; I decide what ships.
+- **Local-first, bring your own LLM.** Most tools run on your machine and take whatever model key you have.
+- **Deterministic where it counts.** Videos render from code, and rule layers run before any model call, at zero cost.
+- **Self-hosted.** Production services run on one small VPS with systemd and nginx, with every deploy snapshotted in git.
 
 </td>
 </tr>
@@ -53,9 +51,9 @@ Outside academia, I run a live-streaming e-commerce company and serve as Trainin
 
 ## Currently
 
-- Leading a company-wide AI transformation initiative (through August 2026)
-- Turning years of Ming dynasty research into a historical novel
-- Based in China, currently traveling in Europe
+- Shipping [think-like-fandeng](https://github.com/chrislitality-svg/think-like-fandeng), a 樊登-style book-talk skill built from ~30 hours of corpus
+- Iterating on [think-like-wangziru](https://github.com/chrislitality-svg/think-like-wangziru), edition 2 of the 王自如 skill
+- Running a Claude × GLM agent team that just audited and re-documented 48 of my repos
 
 ---
 
@@ -176,4 +174,4 @@ Corpus-based Claude Code skills that decompose how specific Chinese speakers str
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8372d,100:0f1115&height=110&section=footer" width="100%" alt="footer wave" />
 </p>
 
-<p align="center">📖 History, one archive at a time · 🤖 AI, one pipeline at a time</p>
+<p align="center">🏯 History, one simulation at a time · 🤖 AI, one pipeline at a time</p>
