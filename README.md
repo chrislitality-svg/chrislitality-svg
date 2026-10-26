@@ -160,10 +160,6 @@ Corpus-based Claude Code skills that decompose how specific Chinese speakers str
   <img src="https://streak-stats.demolab.com/?user=chrislitality-svg&background=0f1115&border=c9a227&ring=c8372d&fire=c9a227&currStreakNum=f3ead8&currStreakLabel=f3ead8&sideNums=f3ead8&sideLabels=f3ead8&dates=f3ead8" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/c8372d/chrislitality-svg" alt="Contribution activity over the last year" width="100%" />
-</p>
-
 ## Contribution Snake
 
 <p align="center">
