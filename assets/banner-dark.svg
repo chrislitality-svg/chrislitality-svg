@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Bee Zhao 赵轶峰 — Historian × AI Builder">
+  <!-- ink background -->
+  <rect x="0" y="0" width="1200" height="300" fill="#0f1115"/>
+
+  <!-- 文武线 frame: thick outer + thin inner rule, antique gold -->
+  <rect x="16" y="16" width="1168" height="268" fill="none" stroke="#c9a227" stroke-width="2.2" opacity="0.5"/>
+  <rect x="25" y="25" width="1150" height="250" fill="none" stroke="#c9a227" stroke-width="0.8" opacity="0.32"/>
+
+  <!-- vertical column rules (古籍界栏), fading in slowly -->
+  <g stroke="#f3ead8" stroke-width="1" opacity="0.07">
+    <line x1="95" y1="42" x2="95" y2="232"/>
+    <line x1="179" y1="42" x2="179" y2="232"/>
+    <line x1="263" y1="42" x2="263" y2="232"/>
+    <line x1="347" y1="42" x2="347" y2="232"/>
+    <line x1="431" y1="42" x2="431" y2="232"/>
+    <line x1="515" y1="42" x2="515" y2="232"/>
+    <line x1="599" y1="42" x2="599" y2="232"/>
+    <line x1="683" y1="42" x2="683" y2="232"/>
+    <line x1="767" y1="42" x2="767" y2="232"/>
+    <line x1="851" y1="42" x2="851" y2="232"/>
+    <line x1="935" y1="42" x2="935" y2="232"/>
+    <line x1="1019" y1="42" x2="1019" y2="232"/>
+    <line x1="1103" y1="42" x2="1103" y2="232"/>
+    <animate attributeName="opacity" from="0" to="0.07" dur="2.5s" fill="freeze"/>
+  </g>
+
+  <!-- name block -->
+  <text x="72" y="136" font-family="Georgia, 'Times New Roman', 'Songti SC', serif" font-size="58" letter-spacing="1" fill="#f3ead8">Bee Zhao</text>
+  <text x="372" y="136" font-family="Georgia, 'Times New Roman', 'Songti SC', serif" font-size="42" letter-spacing="6" fill="#c9a227">赵轶峰</text>
+  <text x="74" y="180" font-family="Georgia, 'Times New Roman', serif" font-size="20" letter-spacing="3" fill="#f3ead8" fill-opacity="0.72">Historian × AI Builder</text>
+  <rect x="74" y="196" width="88" height="2" fill="#c8372d" opacity="0.85"/>
+
+  <!-- vermilion seal 「轶峰」, white-on-red intaglio -->
+  <g opacity="1">
+    <rect x="1000" y="84" width="132" height="132" rx="6" fill="#c8372d"/>
+    <rect x="1009" y="93" width="114" height="114" rx="2" fill="none" stroke="#f3ead8" stroke-width="2.5" opacity="0.95"/>
+    <text x="1066" y="121.5" text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'STSong', 'SimSun', serif" font-size="54" font-weight="700" fill="#f3ead8">轶</text>
+    <text x="1066" y="178.5" text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'STSong', 'SimSun', serif" font-size="54" font-weight="700" fill="#f3ead8">峰</text>
+    <animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="1.4s" fill="freeze"/>
+  </g>
+
+  <!-- terminal line with blinking cursor -->
+  <text x="72" y="258" font-family="'SF Mono', 'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="17" letter-spacing="0.5">
+    <tspan fill="#7ee787">$</tspan><tspan fill="#f3ead8" fill-opacity="0.92">&#160;agents run --dynasty=ming</tspan>
+  </text>
+  <rect x="352" y="244" width="10" height="19" fill="#7ee787">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
